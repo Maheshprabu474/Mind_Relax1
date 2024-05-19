@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95554036877",
+    "project_id": "mind-relax1",
+    "storage_bucket": "mind-relax1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95554036877:android:681282c9f32cdcbcf16ec4",
+        "android_client_info": {
+          "package_name": "com.example.mindrelax1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVVDOrXYRWsBf0seTRSm75anUrnfUY3iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
